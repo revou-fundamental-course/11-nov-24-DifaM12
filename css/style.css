@@ -268,6 +268,9 @@ footer h2 {
   border: 1px solid white;
   background: rgb(63, 156, 255);
 }
+.article button:hover {
+  opacity: 50%;
+}
 
 /* Scroll Animation */
 html {
